@@ -7,6 +7,7 @@ taxonomy:
         - Lessons
         - Esotericism
         - Art & Science
+        - Magick
     post_tag:
         - consciousness
         - esotericism
@@ -14,10 +15,6 @@ taxonomy:
         - process
         - magick
 ---
-
-# Tetagrammaton Explained In Terms of Learning
-
-#iching #magick #understanding #occult #truth #processes
 
 Life on Earth as we know it consists of countless patterns, emerging and ordering in a particular (self-similar) way, while consciousness is the reading/experience apparatus that moves along these patterns.
 
