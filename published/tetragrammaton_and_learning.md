@@ -15,7 +15,7 @@ taxonomy:
         - magick
 ---
 
-# Tetagrammaton Explained In Terms of Simple Learning
+# Tetagrammaton Explained In Terms of Learning
 
 #iching #magick #understanding #occult #truth #processes
 
