@@ -7,7 +7,7 @@ taxonomy:
         - Lessons
         - Esotericism
         - Art & Science
-        - Magick
+        - Hermeticism
     post_tag:
         - consciousness
         - esotericism
